@@ -1,0 +1,3 @@
+/Users/laurent/C++Projects/Hangman/build/CMakeFiles/Hangman.dir
+/Users/laurent/C++Projects/Hangman/build/CMakeFiles/edit_cache.dir
+/Users/laurent/C++Projects/Hangman/build/CMakeFiles/rebuild_cache.dir

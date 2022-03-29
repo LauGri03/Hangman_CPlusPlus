@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/laurent/C++Projects/Hangman/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/laurent/C++Projects/Hangman/./include -I/Users/laurent/C++Projects/Hangman/./src -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=12.0 -std=c++17 -o CMakeFiles/Hangman.dir/src/main.cpp.o -c /Users/laurent/C++Projects/Hangman/src/main.cpp",
+  "file": "/Users/laurent/C++Projects/Hangman/src/main.cpp"
+},
+{
+  "directory": "/Users/laurent/C++Projects/Hangman/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/laurent/C++Projects/Hangman/./include -I/Users/laurent/C++Projects/Hangman/./src -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=12.0 -std=c++17 -o CMakeFiles/Hangman.dir/src/hangman.cpp.o -c /Users/laurent/C++Projects/Hangman/src/hangman.cpp",
+  "file": "/Users/laurent/C++Projects/Hangman/src/hangman.cpp"
+}
+]
